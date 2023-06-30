@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login">Login</string>
+    <string name="harus_diisi">This field must be filled</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="tv_register_msg">Please input your data</string>
+    <string name="password">Password</string>
+    <string name="tv_login_msg">Please enter your email and password</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="msg_register">Not having account yet? Register now below !</string>
+    <string name="language">Language</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Retry</string>
+</resources>

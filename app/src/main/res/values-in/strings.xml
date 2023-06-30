@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Story</string>
+    <string name="login">Masuk</string>
+    <string name="harus_diisi">Bagian ini harus diisi</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="tv_register_msg">Masukkan data diri anda</string>
+    <string name="password">Password</string>
+    <string name="tv_login_msg">Masukkan email dan password anda</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="username">Nama User</string>
+    <string name="logout">Keluar</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="msg_register">Belum memiliki akun? klik Register dibawah ini !</string>
+    <string name="language">Bahasa</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Peta</string>
+    <string name="retry">Coba lagi</string>
+</resources>
